@@ -1,0 +1,14 @@
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\bin\Debug\net8.0\Алгоритм Диница.exe
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\bin\Debug\net8.0\Алгоритм Диница.deps.json
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\bin\Debug\net8.0\Алгоритм Диница.runtimeconfig.json
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\bin\Debug\net8.0\Алгоритм Диница.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\bin\Debug\net8.0\Алгоритм Диница.pdb
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\Алгоритм Диница.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\Алгоритм Диница.AssemblyInfoInputs.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\Алгоритм Диница.AssemblyInfo.cs
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\Алгоритм Диница.csproj.CoreCompileInputs.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\Алгоритм Диница.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\refint\Алгоритм Диница.dll
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\Алгоритм Диница.pdb
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\Алгоритм Диница.genruntimeconfig.cache
+C:\Users\m2315545\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_3\alg\Алгоритм Диница\Алгоритм Диница\Алгоритм Диница\obj\Debug\net8.0\ref\Алгоритм Диница.dll
